@@ -1,0 +1,1 @@
+# Disconnected-and-connected-architecture
